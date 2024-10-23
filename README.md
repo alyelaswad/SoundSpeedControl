@@ -15,7 +15,7 @@ The Audio Playback Speed Controller is a Python program that allows users to adj
 
 ## Requirements
 
-- Python 3.x
+- Python
 - NumPy
 - SciPy
 - Matplotlib
